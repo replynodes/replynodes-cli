@@ -133,3 +133,11 @@ The same `<json>` / `@file` convention works for `integrations trigger
 Alternatively, use the [Replynodes public API](https://app.replynodes.com/api/public/v1)
 directly with curl, or the [`@postiz/node`](https://www.npmjs.com/package/@postiz/node)
 SDK for programmatic Node.js use.
+
+## Related
+
+If you're scripting content creation as well as publishing, see
+[Awesome Social Media Skills](https://github.com/replynodes/awesome-social-media-skills) —
+an open-source library of portable AI agent skills (research, writing,
+repurposing, review) that pairs naturally with this CLI's `posts create`
+and `upload` commands.
