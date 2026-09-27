@@ -1,7 +1,7 @@
 {
   "name": "replynodes-cli",
   "version": "0.1.0",
-  "description": "Command-line interface for Replynodes — schedule posts, manage channels, and inspect analytics from your terminal or scripts.",
+  "description": "Retired historical CLI; legacy social-publishing client pending archival decision.",
   "type": "module",
   "bin": {
     "replynodes": "dist/cli.js"
