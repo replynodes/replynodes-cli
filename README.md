@@ -1,3 +1,4 @@
+> **Retired.** This repository is no longer maintained. ReplyNodes is the read-only web context API for AI agents: search, scrape and read public web, social and app data through one REST API or remote MCP server. Current product: https://replynodes.com/ and https://github.com/replynodes/replynodes-mcp.
 # replynodes-cli (retired)
 
 This CLI is a legacy ReplyNodes social-publishing client and is retained for historical reference only. Its scheduling, connected-channel, media-upload, and legacy public-API instructions are not current ReplyNodes product guidance.
